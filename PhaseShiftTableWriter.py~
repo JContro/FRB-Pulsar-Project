@@ -20,5 +20,3 @@ with open('PhaseShiftOutput.txt') as f:
 				break
 
 PulseShiftTable.write('PulseShiftTable.fits',overwrite = True)
-
-# add comment
